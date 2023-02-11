@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Bilal ^_^</h1>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 <h3 align="left">#include 	&#60;stdio.h&#62;<br><br>int main() {<br>&emsp;&emsp;printf("A crazy web developer!");<br>&emsp;&emsp;return 0;<br>}</h3>
 
 <br>
