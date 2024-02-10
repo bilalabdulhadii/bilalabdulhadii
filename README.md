@@ -28,6 +28,6 @@
 
 <h3 align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalabdulhadi&" alt="bilalabdulhadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalabdulhadii&" alt="bilalabdulhadii" /></p>
 
 </h3>
