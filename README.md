@@ -3,7 +3,7 @@
 <h3 align="left">#include 	&#60;stdio.h&#62;<br><br>int main() {<br>&emsp;&emsp;printf("A crazy web developer!");<br>&emsp;&emsp;return 0;<br>}</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalabdulhadi&label=Profile%20views&color=EAB98C&style=flat" alt="bilalabdulhadi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalabdulhadi&label=Profile%20views&color=EAB98C&style=flat" alt="bilalabdulhadii" /> </p>
 <br>
 
 - 💬 Ask me about **Web, C family, OOP**
