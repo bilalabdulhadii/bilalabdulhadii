@@ -6,17 +6,16 @@
 
 <br>
 
-- 💬 Ask me about **Web Development, PHP, OOP**
+- 📫 How to reach me **bilalabdulhadi88@gmail.com**
 
-- 📫 How to reach me **bilalabdulhadipro@gmail.com**
+- 🌐 Portfolio **<a href="https://bilalabdulhadi.com/" target="blank">bilalabdulhadi.com</a>**
 
-- 🌐 More info **<a href="https://bilalabdulhadi.com/" target="blank">bilalabdulhadi.com</a>**
+- 🌐 Modern Digital Solutions **<a href="https://projiz.com/" target="blank">projiz.com</a>**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilalabdulhadii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-abdulhadi-9665261a6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20902896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20902896" height="30" width="40" /></a>
 <a href="https://instagram.com/bilalabdulhadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalabdulhadii" height="30" width="40" /></a>
 </p>
 
